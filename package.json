@@ -1,0 +1,25 @@
+{
+  "name": "budget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mjhamm75/react-webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjhamm75/react-webpack/issues"
+  },
+  "homepage": "https://github.com/mjhamm75/react-webpack",
+  "dependencies": {
+    "jsx-loader": "^0.11.2",
+    "react": "^0.11.2",
+    "react-router": "^0.7.0",
+    "webpack": "^1.4.4"
+  }
+}
